@@ -1,0 +1,3 @@
+/home/stefan/C-Ordner/AE/HelloWorld/CMakeFiles/edit_cache.dir
+/home/stefan/C-Ordner/AE/HelloWorld/CMakeFiles/rebuild_cache.dir
+/home/stefan/C-Ordner/AE/HelloWorld/CMakeFiles/hello.dir
